@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&display=swap');
+
+body{
+	padding: 0;
+	margin: 0;
+}
+.nav{
+	width: 100%;
+	min-height: 40px;
+	background-color: #2D3E50;
+	padding-top: 10px;
+}
+.nav a{
+
+	color: #fff;
+	padding-left: 20px;
+	text-decoration: none;
+	font-family: 'Baloo Da 2', cursive;
+	
+}
+
+.kepala img {
+	width: 100%;
+}
+
+
+
+
+

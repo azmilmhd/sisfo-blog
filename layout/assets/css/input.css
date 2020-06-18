@@ -1,0 +1,63 @@
+.utama {
+	padding: 20px;
+}
+
+.isi {
+	margin : auto;
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 20px 0px 20px 20px;
+	box-shadow: 0 5px 9px 0px rgba(0, 0, 0, 0.5);
+	overflow: auto;
+	width: 700px;
+
+}
+
+.isimenu{
+	background-color: #DBDDE0;
+}
+
+.nama{
+	width: 250px;
+	height: 30px;
+	background-color: #DBDDE0;
+	margin-bottom: 10px;
+}
+
+ .nama:hover, .nama:active, .nama:focus {  
+
+   background: #C7CBD1; 
+
+ } 
+
+.ket{
+	width: 250px;
+	height: 50px;
+	background-color: #DBDDE0;
+}
+
+
+.simpan {
+	margin-top: 10px;
+}
+.input{
+	padding: 10px 30px 10px 30px;
+	border-radius: 10px;
+	background-color: #A6E228;
+	margin-right: 10px;
+}
+
+.input:hover, .input:active, .input:focus {  
+
+   background: #71BC28;
+ } 
+
+.reset{
+	padding: 10px 30px 10px 30px;
+	border-radius: 10px;
+	background-color: #C80000;
+}
+.reset:hover, .reset:active, .reset:focus {  
+
+   background: #AD0000;
+ } 

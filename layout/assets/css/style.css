@@ -1,0 +1,55 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+</style>
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+.utama {
+	padding: 20px;
+}
+
+.isi {
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 20px 0px 20px 20px;
+	box-shadow: 0 5px 9px 0px rgba(0, 0, 0, 0.5);
+	overflow: auto;
+
+}
+
+.isimenu{
+	background-color: #DBDDE0;
+}
+
+table, tr,td, th{
+	border : 1px solid;
+	text-align: center;
+	border-collapse: collapse;
+	padding:15px;
+
+}
+th{
+	background-color: #2D3E50;
+	color: #fff;
+	min-width: 150px;
+}
+
+.edit {
+	padding: 10px;
+	background-color: #DBDDE0;
+	text-decoration: none;
+}
+
+.hapus {
+	background-color: #C80000;
+	color: #000;
+	margin-right: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.input{
+	padding: 10px 30px 10px 30px;
+	border-radius: 10px;
+	background-color: #A6E228;
+}

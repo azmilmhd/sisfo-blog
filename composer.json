@@ -1,0 +1,14 @@
+{
+    "name": "azmil/instogram",
+    "description": "system informasi blog berbasis web",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "azmil",
+            "email": "azmil@yahoo.com"
+        }
+    ]
+}
